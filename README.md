@@ -1,5 +1,7 @@
 # Capistrano::Nagios
 
+[![Dependency Status](https://gemnasium.com/seuros/capistrano-nagios.svg)](https://gemnasium.com/seuros/capistrano-nagios)
+
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -30,6 +32,11 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/seuros/capistrano-nagios.
 
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
 
 ## License
 
